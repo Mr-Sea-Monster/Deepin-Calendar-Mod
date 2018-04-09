@@ -4,7 +4,7 @@ Calendar for Deepin Desktop Environment, modified by Sea Monster.
 
 ### Build & Install
 
-Build:
+**Build:**
 ```
 $ cd Deepin-Calendar-Mod-master
 $ mkdir build
@@ -13,7 +13,7 @@ $ qmake ..
 $ make
 ```
 
-3. Install:
+**Install:**
 ```
 $ sudo make install
 ```
