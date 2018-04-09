@@ -18,3 +18,7 @@ $ make
 $ sudo make install
 ```
 
+**Deb Package:**
+```
+https://sabercathost.com/lYnp/sm-dde-calendar_20180409-1_amd64.deb
+```
