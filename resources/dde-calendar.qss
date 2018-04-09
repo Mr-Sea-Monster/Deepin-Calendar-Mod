@@ -1,0 +1,21 @@
+QFrame {
+    color: rgba(255, 255, 255, 0.7);
+}
+
+QFrame#CalendarBackground {
+    background-color: rgba(0, 0, 0, 1)
+}
+
+QLabel#CalendarHeaderWeekday {
+    font-size: 14px;
+    color: rgba(255, 255, 255, 0.4);
+}
+
+QLabel#CalendarHeaderWeekend {
+    font-size: 14px;
+    color: rgba(255, 0, 0, 0.4);
+}
+
+QFrame#CalendarView {
+opacity: 0.7;
+}

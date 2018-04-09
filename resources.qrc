@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/">
+        <file>resources/dde-calendar.qss</file>
+        <file>resources/icon/dde-calendar.svg</file>
+        <file>resources/icon/dde-calendar_96.png</file>
+        <file>resources/icon/dde-calendar_48.png</file>
+        <file>resources/icon/next_disabled.svg</file>
+        <file>resources/icon/next_hover.svg</file>
+        <file>resources/icon/next_normal.svg</file>
+        <file>resources/icon/next_press.svg</file>
+        <file>resources/icon/previous_disabled.svg</file>
+        <file>resources/icon/previous_hover.svg</file>
+        <file>resources/icon/previous_normal.svg</file>
+        <file>resources/icon/previous_press.svg</file>
+        <file>resources/icon/today_hover.svg</file>
+        <file>resources/icon/today_normal.svg</file>
+        <file>resources/icon/today_press.svg</file>
+        <file>resources/calendar_skin.png</file>
+    </qresource>
+</RCC>
