@@ -17,12 +17,8 @@ $ make
 $ sudo make install
 ```
 
-**Deb Package:**
+**Links:**
 
-https://bbs.deepin.org/forum.php?mod=attachment&aid=NTM3OTJ8ZWI2YjMzZjZ8MTUyMzgwOTgyN3w3MTQxMHwxNTUxODE%3D
+[Deb Package](https://bbs.deepin.org/forum.php?mod=attachment&aid=NTM3OTJ8ZWI2YjMzZjZ8MTUyMzgwOTgyN3w3MTQxMHwxNTUxODE%3D)
 
-
-
-**Original Deepin Calendar:**
-
-https://github.com/linuxdeepin/dde-calendar
+[Original Deepin Calendar](https://github.com/linuxdeepin/dde-calendar)
