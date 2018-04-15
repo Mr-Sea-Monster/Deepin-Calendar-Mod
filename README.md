@@ -1,9 +1,9 @@
 # dde-calendar
 Calendar for Deepin Desktop Environment, modified by Sea Monster.
 
-### Build & Install
+## Build & Install
 
-Build:
+### Build:
 ```
 $ cd Deepin-Calendar-Mod-master
 $ mkdir build
@@ -12,12 +12,12 @@ $ qmake ..
 $ make
 ```
 
-Install:
+### Install:
 ```
 $ sudo make install
 ```
 
-Links:
+### Links:
 
 [Deb Package](https://bbs.deepin.org/forum.php?mod=attachment&aid=NTM3OTJ8ZWI2YjMzZjZ8MTUyMzgwOTgyN3w3MTQxMHwxNTUxODE%3D)
 
